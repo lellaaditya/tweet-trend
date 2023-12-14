@@ -14,6 +14,11 @@ It also contains pom.xml which has all dependencies and artifact name and versio
  Install Jenkins
   
   https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+
+  GCP Firewall
+
+  <img width="960" alt="image" src="https://github.com/lellaaditya/tweet-trend/assets/139613275/a659f114-dd7f-4dc8-b3d9-9b210f89a08e">
+
   
 # SonarQube
 
