@@ -12,7 +12,9 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 
 # Jenkins
  Install Jenkins
-
+  
+  https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+  
 # SonarQube
 
 Build Tool --> Maven Ant
