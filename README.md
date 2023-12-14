@@ -8,13 +8,14 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 
 # Tech Stack
 
-GitHub
+# GitHub
 
-Jenkins
+# Jenkins
+ Install Jenkins
 
-SonarQube
+# SonarQube
 
 Build Tool --> Maven Ant
 
-JFrog
+# JFrog
 
