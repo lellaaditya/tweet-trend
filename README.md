@@ -18,6 +18,10 @@ It also contains pom.xml which has all dependencies and artifact name and versio
   https://pkg.jenkins.io/debian-stable/
 
   Integrate GitHub with Jenkins
+
+  Admin Password
+  
+  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
   
   Cred --> GitHub Username and Personal Access Token 
   
