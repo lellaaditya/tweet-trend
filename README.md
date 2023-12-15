@@ -39,8 +39,22 @@ First of all, make sure that Java is installed on your Ubuntu 22.04; if you do n
 ```
 sudo apt install default-jdk -y
 ```
-  
-  
+
+Step 2: Download Apache Maven latest version
+Next, write-out the below-given “wget” command for downloading the latest version of Apache Maven from the official website:
+
+```
+wget https://downloads.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz -P /tmp
+```
+
+Step 3: Extract downloaded Apache Maven package
+Now, move to the “/tmp” directory with the help of the “cd” command
+
+```
+cd /tmp
+```
+
+
  # GCP 
    GCP Instance
 
