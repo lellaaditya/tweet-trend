@@ -24,6 +24,14 @@ It also contains pom.xml which has all dependencies and artifact name and versio
   sudo cat /var/lib/jenkins/secrets/initialAdminPassword
   
   Cred --> GitHub Username and Personal Access Token 
+---
+  Install maven
+
+  https://maven.apache.org/download.cgi
+  
+  apache-maven-3.9.6-bin.tar.gz
+
+  https://linuxhint.com/install_apache_maven_ubuntu/
   
  # GCP 
    GCP Instance
