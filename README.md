@@ -32,6 +32,12 @@ It also contains pom.xml which has all dependencies and artifact name and versio
   apache-maven-3.9.6-bin.tar.gz
 
   https://linuxhint.com/install_apache_maven_ubuntu/
+
+Step 1: Install Java
+First of all, make sure that Java is installed on your Ubuntu 22.04; if you do not have it, then utilize the given command for its installation:
+
+**sudo apt install default-jdk -y**
+  
   
  # GCP 
    GCP Instance
