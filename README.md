@@ -36,7 +36,9 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 Step 1: Install Java
 First of all, make sure that Java is installed on your Ubuntu 22.04; if you do not have it, then utilize the given command for its installation:
 
-**sudo apt install default-jdk -y**
+'''
+sudo apt install default-jdk -y
+'''
   
   
  # GCP 
