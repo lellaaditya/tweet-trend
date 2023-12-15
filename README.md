@@ -16,10 +16,14 @@ It also contains pom.xml which has all dependencies and artifact name and versio
   https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
   
   https://pkg.jenkins.io/debian-stable/
-
-https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
   
-  GCP Firewall
+ # GCP 
+   GCP Instance
+
+   Create VM and attach the below firewall
+   
+ 
+ Firewall
 
   <img width="715" alt="image" src="https://github.com/lellaaditya/tweet-trend/assets/139613275/219d845d-37fc-4d91-ad93-966cfb6b1187">
 
