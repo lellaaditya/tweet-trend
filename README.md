@@ -16,6 +16,10 @@ It also contains pom.xml which has all dependencies and artifact name and versio
   https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
   
   https://pkg.jenkins.io/debian-stable/
+
+  Integrate GitHub with Jenkins
+  
+  Cred --> GitHub Username and Personal Access Token 
   
  # GCP 
    GCP Instance
