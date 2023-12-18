@@ -54,8 +54,50 @@ Now, move to the “/tmp” directory with the help of the “cd” command
 cd /tmp
 ```
 
+```
+tar -xvzf apache-maven-3.9.6-bin.tar.gz
+```
 
- # GCP 
+extracting the required package, copy it to the “/opt/” directory:
+
+```
+sudo cp -r apache-maven-3.6.3 /opt/maven
+```
+
+Step 4: Set up environment variables
+In the next step, we will set up the environment variables by creating a maven script file “maven.sh” inside the “/etc.profile.d” directory:
+
+```
+sudo vim /etc/profile.d/maven.sh
+```
+
+In the opened “maven.sh” file, paste the follow code and press “CTRL+O” to save it:
+
+```
+export JAVA_HOME=/usr/lib/jvm/default-java
+export M2_HOME=/opt/maven
+export MAVEN_HOME=/opt/maven
+export PATH=${M2_HOME}/bin:${PATH}
+```
+
+enabling the executable permission of the created Apache Maven script:
+```
+sudo chmod +x /etc/profile.d/maven.sh
+```
+
+load the environment variables with the help of the following “source” command:
+
+```
+source /etc/profile.d/maven.sh
+```
+Step 5: Check Apache Maven version
+
+Lastly, verify the version of Apache Maven which you have installed on your Ubuntu 22.04:
+
+```
+mvn -version
+```
+# GCP 
    GCP Instance
 
    Create VM and attach the below firewall
