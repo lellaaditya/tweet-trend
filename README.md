@@ -58,7 +58,9 @@ sudo systemctl status jenkins
 
   Admin Password
   
-  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  ```
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
   
   Cred --> GitHub Username and Personal Access Token 
 ---
