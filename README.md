@@ -140,6 +140,12 @@ Lastly, verify the version of Apache Maven which you have installed on your Ubun
 ```
 mvn -version
 ```
+
+GitHub Web Hook
+```
+https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
+```
+
 # GCP 
    GCP Instance
 
