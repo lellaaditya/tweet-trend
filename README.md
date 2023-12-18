@@ -61,7 +61,7 @@ tar -xvzf apache-maven-3.9.6-bin.tar.gz
 extracting the required package, copy it to the “/opt/” directory:
 
 ```
-sudo cp -r apache-maven-3.6.3 /opt/maven
+sudo cp -r apache-maven-3.9.6 /opt/maven
 ```
 
 Step 4: Set up environment variables
