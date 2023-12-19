@@ -167,5 +167,8 @@ https://github.com/ravdy/devops-workshop/tree/main/lab-docs
 ```
 
 # JFrog
+JFrog Url
 
+Jenkins--> Go to Build --> workspace --> Artifact Location --> /var/lib/jenkins/workspace/maven/jarstaging/com/valaxy/demo-workshop/2.1.4
 
+credentials from Jenkins --> jenkinsjfrog
