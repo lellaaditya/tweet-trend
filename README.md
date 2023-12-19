@@ -8,7 +8,10 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 
 # Tech Stack
 
+# Imp Note: --- Refer for Resources/files ---
 ### https://github.com/ravdy/devops-workshop.git
+---
+
 # GitHub
 
 # Jenkins
