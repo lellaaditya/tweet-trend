@@ -12,6 +12,8 @@ It also contains pom.xml which has all dependencies and artifact name and versio
 ### https://github.com/ravdy/devops-workshop.git
 ---
 
+# Ansible
+
 # GitHub
 
 # Jenkins
