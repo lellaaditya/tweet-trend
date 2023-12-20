@@ -164,6 +164,8 @@ https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-
   
 # SonarQube
 
+Install Sonar-Scanner and Quality Gates Plugin
+
 Build Tool --> Maven Ant
 
 ```
@@ -171,6 +173,9 @@ https://github.com/ravdy/devops-workshop/tree/main/lab-docs
 ```
 
 # JFrog
+
+Install Artifactory and JFrog Plugin
+
 JFrog Url
 
 Jenkins--> Go to Build --> workspace --> Artifact Location --> /var/lib/jenkins/workspace/maven/jarstaging/com/valaxy/demo-workshop/2.1.4
