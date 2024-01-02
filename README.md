@@ -186,3 +186,8 @@ credentials from Jenkins --> jenkinsjfrog
 
 # Docker
 
+# minikube
+```
+https://www.linuxbuzz.com/install-minikube-on-ubuntu/
+
+```
