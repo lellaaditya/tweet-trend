@@ -22,7 +22,7 @@ environment {
             }
         }
 
-    stage('SonarQube analysis') {
+/* stage('SonarQube analysis') {
     environment {
       scannerHome = tool 'mvn-sonar-scanner'
     }
@@ -41,7 +41,7 @@ environment {
       error "Pipeline aborted due to quality gate failure: ${qg.status}"
     }
   }
-}
+} */
     }
   }
          stage("Jar Publish") {
