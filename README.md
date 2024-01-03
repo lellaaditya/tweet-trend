@@ -147,6 +147,12 @@ Lastly, verify the version of Apache Maven which you have installed on your Ubun
 mvn -version
 ```
 
+Email Extension for jenkins
+
+https://youtu.be/F01HOaklPeM?si=SU2cvtEqO9wkePoo
+
+
+
 # GitHub Web Hook
 ```
 https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
