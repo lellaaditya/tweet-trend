@@ -151,6 +151,15 @@ Email Extension for jenkins
 
 https://youtu.be/F01HOaklPeM?si=SU2cvtEqO9wkePoo
 
+Email Notification for Gmail
+Create a App Password in the gmail security
+Manage jenkins-> Install Email Extension
+
+Go to Config
+Extended E-mail Notification
+SMTP server
+smtp.gmail.com
+
 
 
 # GitHub Web Hook
