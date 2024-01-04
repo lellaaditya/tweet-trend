@@ -70,7 +70,9 @@ environment {
             }
         }
     } 
-}    post {
+}    
+
+post {
             always {
                 emailext (
                     subject: "Pipeline Status: ${BUILD_NUMBER}",
@@ -88,5 +90,3 @@ environment {
                 )
             }
         }
-}
-}
