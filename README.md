@@ -156,7 +156,7 @@ Create a App Password in the gmail security
 Manage jenkins-> Install Email Extension
 
 Go to Config
-Extended E-mail Notification
+E-mail Notification
 SMTP server
 smtp.gmail.com
 
