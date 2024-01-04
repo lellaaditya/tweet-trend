@@ -147,7 +147,7 @@ Lastly, verify the version of Apache Maven which you have installed on your Ubun
 mvn -version
 ```
 
-Email Extension for jenkins
+# Email Extension for jenkins
 
 https://youtu.be/F01HOaklPeM?si=SU2cvtEqO9wkePoo
 
@@ -160,7 +160,7 @@ E-mail Notification
 SMTP server
 smtp.gmail.com
 
-
+https://youtu.be/pAOJ9k2o67Q?si=HSfdN6Lpy8ZaHqA7
 
 # GitHub Web Hook
 ```
